@@ -1,0 +1,1 @@
+web: java -jar target/Push-up-Challenges-0.0.1-SNAPSHOT.jar
